@@ -1,5 +1,5 @@
 <?php
-echo php_info();
+echo phpinfo();
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
